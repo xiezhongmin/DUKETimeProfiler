@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+利用LLVM自动插桩技术, 统计方法、函数耗时
                        DESC
 
   s.homepage         = 'https://github.com/xiezhongmin/DUKETimeProfiler'
